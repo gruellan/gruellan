@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm George.
 
-<!--
-**gruellan/gruellan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun.
 
-Here are some ideas to get you started:
+Best at: React / Vue / Java / Flutter / Firebase
+Good at: Python / PHP / Angular / GCP / AWS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: Tensorflow
+⚡ Fun fact: I'm proficient in Mandarin. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gruellan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/georgeruellan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/georgeruellan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/georgeruellan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.georgeruellan.com)  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=gruellan&show_icons=true)![Profile views](https://gpvc.arturio.dev/gruellan)  
