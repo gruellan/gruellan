@@ -14,4 +14,4 @@ Good at: Python / PHP / Angular / GCP / AWS
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gruellan&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/gruellan)  
+![Profile views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fgruellan)
