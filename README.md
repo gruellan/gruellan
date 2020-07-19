@@ -1,11 +1,13 @@
-### Hi there 👋, I'm George.
+## Hi there 👋, I'm George.
+### 3rd year Computer Science undergraduate @ Lancaster University.
 
-I made this project just for fun.
 
 Best at: React / Vue / Java / Flutter / Firebase
+
 Good at: Python / PHP / Angular / GCP / AWS 
 
 🌱 Currently learning: Tensorflow
+
 ⚡ Fun fact: I'm proficient in Mandarin. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gruellan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/georgeruellan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/georgeruellan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/georgeruellan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.georgeruellan.com)  
