@@ -6,7 +6,7 @@ Best at: React / Vue / Java / Flutter / Firebase
 
 Good at: Python / PHP / Angular / GCP / AWS 
 
-🌱 Currently learning: Tensorflow
+🌱 Currently learning: Sentiment Analysis with Python
 
 ⚡ Fun fact: I'm proficient in Mandarin. 
 
