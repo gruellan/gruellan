@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm George.
-### 3rd year Computer Science undergraduate @ Lancaster University.
+### Final year Computer Science undergraduate @ Lancaster University.
 
 
 Best at: React / Python / Java / Firebase
