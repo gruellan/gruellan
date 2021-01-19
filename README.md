@@ -8,7 +8,7 @@ Good at: Vue / PHP / Flutter / Firebase
 
 💾 Currently building: A politeness analysis tool in Python
 
-🌱 Currently learning: NLP and Neural Networks
+🌱 Currently learning: NLP and Convolutional Neural Networks
 
 ⚡ Fun fact: 我会说一点点中文!
 
