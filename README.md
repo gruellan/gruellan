@@ -6,9 +6,7 @@ Best at: React / Python / Java
 
 Good at: Vue / PHP / Flutter / Firebase 
 
-💾 Currently building: A politeness analysis tool in Python
-
-🌱 Currently learning: NLP and Convolutional Neural Networks
+🌱 Currently learning: Solidity
 
 ⚡ Fun fact: 我会说一点点中文!
 
