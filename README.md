@@ -1,6 +1,6 @@
-## Hi there 👋, I'm George.
-### Final year Computer Science undergraduate @ Lancaster University.
-
+# Hi there 👋, I'm George.
+### Associate Software Developer @ Sky.
+Computer Science Undergraduate from Lancaster University.
 
 Best at: React / Python / Java 
 
