@@ -6,7 +6,7 @@ Best at: React / Python / Java
 
 Good at: Vue / PHP / Flutter / Firebase 
 
-🌱 Currently learning: Solidity
+🌱 Currently learning: AWS
 
 ⚡ Fun fact: 我会说一点点中文!
 
