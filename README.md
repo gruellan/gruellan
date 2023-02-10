@@ -2,9 +2,9 @@
 ### Associate Software Developer @ Sky.
 Computer Science Undergraduate from Lancaster University.
 
-Best at: React / Python / AWS 
+Best at: ML / Python / AWS 
 
-Good at: Vue / PHP / Flutter / Java 
+Good at: Vue / React / Flutter / Java 
 
 🌱 Currently learning: Machine learning
 
