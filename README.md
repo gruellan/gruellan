@@ -1,10 +1,10 @@
 # Hi there 👋, I'm George.
-### Associate Software Developer @ Sky.
+### Associate ML Engineer @ Sky.
 Computer Science Undergraduate from Lancaster University.
 
-Best at: ML / Python / AWS 
+Best at: Pytorch / Python / AWS 
 
-Good at: Vue / React / Flutter / Java 
+Good at: Vue / React / Tensorflow / Java 
 
 🌱 Currently learning: Machine learning
 
@@ -13,7 +13,6 @@ Good at: Vue / React / Flutter / Java
 ### 📢 Socials
 - https://www.linkedin.com/in/georgeruellan/
 - https://www.instagram.com/georgeruellan/
-- https://twitter.com/georgeruellan
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=gruellan&show_icons=true) -->
 
