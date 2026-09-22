@@ -1,3 +1,3 @@
-- AI Engineer @ Glasswall - 2025-present
-- Part-time MSc Artificial Intelligence student @ Queen Mary University of London - 2024-2026
-- BSc (Hons) Computer Science @ Lancaster Universiy - 2018-2021
+- AI Engineer @ Glasswall - 2025-Present
+- MSc Artificial Intelligence student @ Queen Mary University of London - 2024-2026
+- BSc (Hons) Computer Science @ Lancaster University - 2018-2021
